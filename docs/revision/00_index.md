@@ -14,3 +14,5 @@ Ordre de lecture pour préparer l'entretien :
 10. [10_interview_qa.md](10_interview_qa.md) — 60 questions par thème
 11. [11_oral_pitches.md](11_oral_pitches.md) — réponses orales prêtes
 12. [12_cheatsheet.md](12_cheatsheet.md) — synthèse 2 pages
+13. [13_orm_performance.md](13_orm_performance.md) — ORM, N+1, indexes, SQL brut
+14. [14_prototype_to_prod.md](14_prototype_to_prod.md) — bootstrap, tests, migrations, envs, rollback

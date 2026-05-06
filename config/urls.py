@@ -31,6 +31,6 @@ urlpatterns = [
         SpectacularRedocView.as_view(url_name="schema"),
         name="redoc",
     ),
-    # API v1 routes (wired in step 12)
-    # path("api/v1/", include("risk.api.urls")),
+    # API v1 routes
+    path("api/<str:version>/", include("risk.api.urls")),
 ]

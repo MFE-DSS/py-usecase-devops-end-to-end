@@ -1,0 +1,4 @@
+{
+  "calculation_version": "PLACEHOLDER - run `python -m risk.tests.golden.regenerate` once to populate",
+  "cases": []
+}
